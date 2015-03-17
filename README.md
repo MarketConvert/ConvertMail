@@ -1,5 +1,5 @@
 # ConvertMail
-Complete Email subscription management for Wordpress.
+### Complete Email subscription management for Wordpress.
 
 We wanted to use a good Email Subscription Management package in-house, but didn't want to deal 
 with the complex pricing by third parties like MailChimp and also didn't want to deal with the nasty
